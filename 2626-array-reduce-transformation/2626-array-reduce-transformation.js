@@ -5,9 +5,5 @@
  * @return {number}
  */
 var reduce = function(nums, fn, init) {
-    counter = init;
-    
-    nums.forEach((num) => counter = fn(counter, num))
-    
-    return counter
+  return nums.length === 0 ? init : nums.reduce((sum, num) => fn(sum, num), init);
 };
