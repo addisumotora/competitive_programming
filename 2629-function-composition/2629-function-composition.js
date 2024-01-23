@@ -7,10 +7,8 @@ var compose = function(functions) {
     return compossition = (x) => {
         if(functions.length === 0) return x;
         
-        for(let i = functions.length-1; i>=0; i--){
-            x = functions[i](x)
-        }
-        return x
+        functions.reverse().forEach((fn) => x = fn(x));
+        return x;
     }
 };
 
