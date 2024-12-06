@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/addisumotora/competitive_programming/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/addisumotora/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
