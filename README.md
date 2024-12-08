@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/addisumotora/competitive_programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/addisumotora/competitive_programming/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,9 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
