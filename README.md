@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/addisumotora/competitive_programming/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/addisumotora/competitive_programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/addisumotora/competitive_programming/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
