@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
+| [0371-sum-of-two-integers](https://github.com/addisumotora/competitive_programming/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/addisumotora/competitive_programming/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
