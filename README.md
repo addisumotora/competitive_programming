@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/addisumotora/competitive_programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/addisumotora/competitive_programming/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/addisumotora/competitive_programming/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/addisumotora/competitive_programming/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/addisumotora/competitive_programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/addisumotora/competitive_programming/tree/master/0135-candy) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -79,4 +81,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/addisumotora/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
