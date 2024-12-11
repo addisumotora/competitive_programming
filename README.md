@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,15 +49,18 @@
 | ------- |
 | [0015-3sum](https://github.com/addisumotora/competitive_programming/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/addisumotora/competitive_programming/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/addisumotora/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/addisumotora/competitive_programming/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
@@ -82,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/addisumotora/competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +101,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/addisumotora/competitive_programming/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/addisumotora/competitive_programming/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/addisumotora/competitive_programming/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
