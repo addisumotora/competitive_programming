@@ -90,8 +90,10 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/addisumotora/competitive_programming/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/addisumotora/competitive_programming/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/addisumotora/competitive_programming/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/addisumotora/competitive_programming/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
