@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/addisumotora/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -124,9 +126,11 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
