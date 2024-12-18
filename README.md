@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/addisumotora/competitive_programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -127,10 +128,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
