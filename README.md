@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/addisumotora/competitive_programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/addisumotora/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,4 +156,9 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/addisumotora/competitive_programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/addisumotora/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/addisumotora/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
