@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/addisumotora/competitive_programming/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -128,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
