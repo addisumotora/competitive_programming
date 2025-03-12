@@ -132,6 +132,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/addisumotora/competitive_programming/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -172,5 +173,10 @@
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/addisumotora/competitive_programming/tree/master/1708-design-parking-system) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/addisumotora/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/addisumotora/competitive_programming/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
