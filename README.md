@@ -24,6 +24,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/addisumotora/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/addisumotora/competitive_programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/addisumotora/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/addisumotora/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/addisumotora/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
