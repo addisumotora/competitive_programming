@@ -39,6 +39,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/addisumotora/competitive_programming/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/addisumotora/competitive_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/addisumotora/competitive_programming/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -51,6 +52,7 @@
 | [0125-valid-palindrome](https://github.com/addisumotora/competitive_programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/addisumotora/competitive_programming/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/addisumotora/competitive_programming/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
