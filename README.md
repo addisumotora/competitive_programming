@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/addisumotora/competitive_programming/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/addisumotora/competitive_programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -88,6 +89,7 @@
 | [0011-container-with-most-water](https://github.com/addisumotora/competitive_programming/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/addisumotora/competitive_programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/addisumotora/competitive_programming/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/addisumotora/competitive_programming/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
