@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/addisumotora/competitive_programming/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/addisumotora/competitive_programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/addisumotora/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -45,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/addisumotora/competitive_programming/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/addisumotora/competitive_programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/addisumotora/competitive_programming/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/addisumotora/competitive_programming/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/addisumotora/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/addisumotora/competitive_programming/tree/master/2551-apply-operations-to-an-array) |
@@ -72,6 +74,7 @@
 | [0016-3sum-closest](https://github.com/addisumotora/competitive_programming/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/addisumotora/competitive_programming/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
