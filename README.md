@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addisumotora/competitive_programming/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/addisumotora/competitive_programming/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/addisumotora/competitive_programming/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/addisumotora/competitive_programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/addisumotora/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/addisumotora/competitive_programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/addisumotora/competitive_programming/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
