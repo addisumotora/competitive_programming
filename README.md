@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/addisumotora/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/addisumotora/competitive_programming/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/addisumotora/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/addisumotora/competitive_programming/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/addisumotora/competitive_programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/addisumotora/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/addisumotora/competitive_programming/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/addisumotora/competitive_programming/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/addisumotora/competitive_programming/tree/master/0496-next-greater-element-i) |
+| [1319-unique-number-of-occurrences](https://github.com/addisumotora/competitive_programming/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/addisumotora/competitive_programming/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
